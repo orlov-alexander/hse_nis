@@ -3,7 +3,7 @@ Project repository for HSE NIS. Homework task for fraud detection.
 
 **Результаты скоринга в письме. А так же в папке predict_for_github**
 
-**Презентаци находиться на https://docs.google.com/presentation/d/1nNn2Ns09nC-j1PU2Y2jaiaHV9peN-EMNb6K-kj9AaQ8**
+**Презентация находиться на https://docs.google.com/presentation/d/1nNn2Ns09nC-j1PU2Y2jaiaHV9peN-EMNb6K-kj9AaQ8**
 
 ##**Описание основных ноутбуков:**
 
@@ -27,5 +27,5 @@ Project repository for HSE NIS. Homework task for fraud detection.
 Визуализация:
 
 - **Precision-Recall curve** notebooks/pr_curve.ipynb
-- **Задание про SHAP** exploration/shap-visualization.ipynb
+- **Задание про SHAP** exploration/shap-visualization.ipynb **(не забудьте сделать Trust notebook чтобы показались картинки)**
 - Большая визуализация данных в exploration/andrey_data_visualization.ipynb
