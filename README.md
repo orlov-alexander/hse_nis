@@ -3,7 +3,9 @@ Project repository for HSE NIS. Homework task for fraud detection.
 
 **Результаты скоринга в письме. А так же в папке predict_for_github**
 
-######**Описание основных ноутбуков:**
+**Презентаци находиться на https://docs.google.com/presentation/d/1nNn2Ns09nC-j1PU2Y2jaiaHV9peN-EMNb6K-kj9AaQ8**
+
+##**Описание основных ноутбуков:**
 
 Обработка данных:
 
@@ -17,7 +19,7 @@ Project repository for HSE NIS. Homework task for fraud detection.
 
 Построение моделей:
 
-- **Финальные предсказания*** делались в prediction/final_prediction.ipynb. Взяли обычный xgboost, обучили его на последних двух месяцах и предсказали.
+- **Финальные предсказания** делались в prediction/final_prediction.ipynb. Взяли обычный xgboost, обучили его на последних двух месяцах и предсказали.
 - **Задание про indexer** и задание про *применить один из методов работы с несбалансированными классами* в ноутбуке indexer_undersampling.ipynb. В ноутбуке реализована forget model, использован SMOTE и сделан undersampling данных.
 - Подбор гиперпараметров xgboost в ноутбуке model_and_validation-V1_withoutCV_Simakov_Shvedov
 
